@@ -1,4 +1,4 @@
-# Buildkite Emojis
+# Buildkite Emojis 
 
 Custom emojis supported by [Buildkite](https://buildkite.com/) that you can use in your Buildkite pipelines, including the terminal output of builds, as well as in test suites and registries.
 
