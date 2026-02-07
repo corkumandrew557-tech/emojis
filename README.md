@@ -31,6 +31,6 @@ Explore the full list of Buildkite-specific emojis at [emoji.buildkite.com ↗](
 
 ![Buildkite Emoji Explorer](docs/buildkite-emojis-explorer.png)
 
-## License
+## 🪪 
 
 Each logo is owned by their respective creators.
